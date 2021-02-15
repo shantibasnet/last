@@ -1,0 +1,116 @@
+
+
+body {
+    background: black;
+    color: lightskyblue;
+    font-size: 17px;
+    line-height: 1.5;
+    margin: 0 auto;
+    max-width: 100%;
+    padding: 10px 5px 10px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: lavenderblush;
+    font-weight: 600;
+    line-height: 1.3;
+}
+h1{
+    padding-left: 200px;
+    font-family: fantasy;
+}
+
+h1 f{
+    font-size: 50px;
+    font-weight: 900;
+    margin-left: 250px;
+    
+}
+
+h1 x{
+    font-size: 40px;
+    margin-left: 20px;
+}
+
+
+h2{
+    padding-left: 200px;
+    font-family: monospace
+    
+    
+}
+
+img {   
+   
+    width :25%;
+    height:25%;
+    margin-left: 6%;
+    height:cover;
+     margin-top: 5%;
+    margin-bottom: 5%;
+    display: inline;
+}
+
+
+table thead th{
+    padding-left: 130px;
+    padding-right: 50px;
+    font-size:20px;
+    color:orchid;
+    margin-left:40px;
+    text-align: center;
+
+}
+
+table tbody td{
+    padding-left: 130px;
+    padding-right: 50px;
+    margin-left: 40px;
+    margin-bottom: 30px;
+}
+
+tbody td a:hover{
+    background-color:orchid;
+    text-decoration: none;
+    
+}
+
+td a{
+   text-decoration: none;
+    color: lavender;
+    font-family: cursive;
+}
+
+tr th{
+    font-family: cursive;
+}
+tr td{
+font-family: cursive;
+}
+
+
+
+.nav-bar ul li{
+    display: inline-block;
+    padding-left: 95px;
+    padding-right:95px;
+    color:white;
+    text-decoration: none;
+    }
+.nav-bar a:hover{
+    background-color:orchid;
+    text-decoration: none;
+}
+
+li a{
+    text-decoration: none;
+    color: ghostwhite;
+    font-family: fantasy
+}
+
+footer{
+    text-align: center;
+    font-family: fantasy;
+    color: lavenderblush;
+    margin-top: 30px;
+}
